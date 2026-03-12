@@ -25,4 +25,4 @@ Achieved strong accuracy in predicting tweet sentiment.
 
 ---
 
-⭐ Feel free to explore and contribute!
+
